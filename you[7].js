@@ -1,0 +1,11 @@
+window.open('https://user-0899.github.io/YouareanidiotGifPage/', null, 'top=100,left=100,width=538,height=420');
+window.moveBy(-1, 1)
+window.moveBy(-1, -1)
+window.moveBy(50, 50)
+window.moveBy(-50, -50)
+window.moveBy(100, 100)
+window.moveBy(-100, -100)
+window.moveBy(-500, -500)
+window.moveBy(500, 500)
+window.moveBy(-500, 2)
+window.moveBy(-500, -6)
